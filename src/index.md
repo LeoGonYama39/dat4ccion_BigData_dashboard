@@ -499,17 +499,6 @@ display(Inputs.table(simulacionTop8, {
   </div>
 </details>
 
-<details class="custom-accordion">
-  <summary>Ética Narrativa, Decisiones Metodológicas y Población Oculta (Clic para desplegar)</summary>
-  <div style="margin-top: 0.85rem; font-size: 0.83rem; color: #cbd5e1; line-height: 1.55;">
-    <ul>
-      <li><b>Población Registrada vs. Población Oculta (No Observable):</b> El DENUE registra unidades económicas formales o institucionales. Quedan fuera del registro oficial las redes informales y comunitarias de cuidado (familiares, vecinas, estancias no registradas) que sostienen gran parte de la demanda en las periferias urbanas a costa del tiempo no remunerado de las mujeres.</li>
-      <li><b>Protección de Confidencialidad Estadística:</b> Los valores censales marcados con asterisco (<code>*</code>) por el INEGI por secreto estadístico en localidades con menos de 3 viviendas fueron tratados como cero para preservar el anonimato y trabajar sobre los agregados oficiales de las 16 demarcaciones territoriales (<code>NOM_LOC = 'Total del Municipio'</code>).</li>
-      <li><b>Supuestos del Simulador:</b> Se estima una capacidad instalada promedio de 120 infantes por nuevo CENDI público y 150 usuarios por Centro de Día (tipo UTOPÍAS), considerando un promedio de 28 horas semanales de cuidado directo liberadas por mujer beneficiada conforme a la Encuesta Nacional sobre Uso del Tiempo (ENUT).</li>
-    </ul>
-  </div>
-</details>
-
 <!-- Pie de página -->
 <div class="footer-box">
   <div>
