@@ -381,11 +381,6 @@ const nuevosCentrosDia = view(Inputs.range([0, 100], {
 ```
 
   </div>
-  <div class="card">
-    <div class="card-title">Impacto Simulado: Cuidadoras Beneficiadas</div>
-    <span class="big" style="color: #10b981;">${mujeresBeneficiadas.toLocaleString("es-MX")}</span>
-    <div class="muted">Mujeres con potencial de inserción laboral</div>
-  </div>
 </div>
 
 ```js
