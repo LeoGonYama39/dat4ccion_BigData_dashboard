@@ -145,7 +145,7 @@ theme: [ midnight, wide ]
     <span class="badge-tag">DAT4CCIÓN 2026 • Cuidados y Trabajo No Remunerado</span>
     <span class="badge-author">Autor: <b>Leo González Yamada</b> | Proyecto Big Data — Universidad Iberoamericana CDMX</span>
   </div>
-  <div class="main-title">Desiertos de Cuidado en la CDMX: Dónde la falta de infraestructura pública frena la autonomía económica de las mujeres</div>
+  <div class="main-title">Atlas de Desiertos de Cuidado en la CDMX: Dónde la falta de infraestructura pública frena la autonomía económica de las mujeres</div>
   <div class="sub-title">Tablero interactivo de diagnóstico territorial y simulador de inversión pública para la redistribución del trabajo de cuidados no remunerado (Censo INEGI 2020 y DENUE)</div>
   <div class="btn-group">
     <a class="btn-link" href="https://www.inegi.org.mx/programas/ccpv/2020/#datos_abiertos" target="_blank" rel="noopener">Fuente: Censo 2020 (INEGI)</a>
